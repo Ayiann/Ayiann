@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 > Attached below is a beautiful image of Satoru Gojo.:😄
-![](./images/1.jpg)
+> 
+![](./images/2.png)
