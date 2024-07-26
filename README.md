@@ -1,6 +1,6 @@
-## Hi there 👋
+## Welcome My Profile 👋
+Hello everyone, I am a front-end developer passionate about crafting efficient and aesthetic web interfaces. In my spare time, I particularly enjoy watching anime with thrilling plots and heartwarming moments, which always inspire and relax me. I believe that both programming and anime have their unique place and value in life.
 
-<!--
 **Ayiann/Ayiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+> Attached below is a beautiful image of Satoru Gojo.
+<img src='/images/1.jpg'/>
