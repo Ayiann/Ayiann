@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-> Attached below is a beautiful image of Satoru Gojo.
-[/images/1.jpg](/images/1.jpg)
+> Attached below is a beautiful image of Satoru Gojo.:😄
+![](./images/1.jpg)
