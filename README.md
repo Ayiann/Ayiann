@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 > Attached below is a beautiful image of Satoru Gojo.
-<img src='/images/1.jpg'/>
+[/images/1.jpg](/images/1.jpg)
